@@ -38,17 +38,17 @@ Some things not populated on the board but might be fun.
 
 ## Procedure
 1. Flash TWRP
-2. Install RKDevTool
-3. Enter Maskrom Mode
-	* Power the device off completely
-	* Plug a USB cable between the device and your computer
-	* Insert a paperclip in the hole behind the kickstand storage and hold it down
-	* Power the device on
-	* The screen will stay black and your computer will notify you of "Rockchip USB download gadget" or similar
-	* At a command line run:
-		> \# rkdeveloptool wlx recovery recovery.img
-		> \# rkdeveloprool rd
-4. Enter TWRP recovery
+	1. Install RKDevTool
+	2. Enter Maskrom Mode
+		* Power the device off completely
+		* Plug a USB cable between the device and your computer
+		* Insert a paperclip in the hole behind the kickstand storage and hold it down
+		* Power the device on
+		* The screen will stay black and your computer will notify you of "Rockchip USB download gadget" or similar
+		* At a command line run:
+			> \# rkdeveloptool wlx recovery recovery.img
+			> \# rkdeveloprool rd
+2. Enter TWRP recovery
 	* Option 1
 		* Power down the device completely
 		* Insert a paperclip in the hole behind the kickstand storage and hold it down
@@ -58,7 +58,7 @@ Some things not populated on the board but might be fun.
 		* If you have *adb* installed and the device is booted you may run:
 			> $ adb reboot recoveryadb r
 		* You should see TWRP recovery startup
-5. Install *NavbarFix_RK3566_TWRP.zip*
+3. Install *NavbarFix_RK3566_TWRP.zip*
 	*  At the command line run:
 		> $ adb push NavbarFix_RK3566_TWRP.zip /sdcard
 	* Inside TWRP:
