@@ -46,7 +46,7 @@ Some things not populated on the board but might be fun.
 		* Power the device on
 		* The screen will stay black and your computer will notify you of "Rockchip USB download gadget" or similar
 		* At a command line run:
-			> \# rkdeveloptool wlx recovery recovery.img
+			> \# rkdeveloptool wlx recovery recovery.img \
 			> \# rkdeveloprool rd
 2. Enter TWRP recovery
 	* Option 1
