@@ -24,7 +24,7 @@ Some things not populated on the board but might be fun.
    - This must be installed before any of the following
 2. Enable top status bar and soft navigation buttons
     - To make Android actually usable a TWRP installable ZIP is included
- 3. Disable/remove iffy packages
+3. Disable/remove iffy packages
     - Rockchip stress test (normally always running and is persistent)
     - com.cubevi.realplay.box.hello (runs at boot in the background)
     - com.idwell.cloudframe (seems like the background app for using JoyHong resources)
@@ -56,7 +56,7 @@ Some things not populated on the board but might be fun.
 		* You should see TWRP recovery start up
 	* Option 2
 		* If you have *adb* installed and the device is booted you may run:
-			> $ adb reboot recoveryadb r
+			> $ adb reboot recovery
 		* You should see TWRP recovery startup
 3. Install *NavbarFix_RK3566_TWRP.zip*
 	*  At the command line run:
