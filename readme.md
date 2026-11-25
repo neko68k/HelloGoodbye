@@ -58,7 +58,8 @@ Some things not populated on the board but might be fun.
 		* If you have *adb* installed and the device is booted you may run:
 			> $ adb reboot recovery
 		* You should see TWRP recovery startup
-3. Install *NavbarFix_RK3566_TWRP.zip*
+3. Plug the USB cable between the device and the computer
+4. Install *NavbarFix_RK3566_TWRP.zip*
 	*  At the command line run:
 		> $ adb push NavbarFix_RK3566_TWRP.zip /sdcard
 	* Inside TWRP:
