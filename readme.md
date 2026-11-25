@@ -1,4 +1,6 @@
-# CubeVi B1/Realplaybox HelloBOX/JoyHong T079G-A03P as a usable Android tablet
+# HelloGoodbye
+
+CubeVi B1/Realplaybox HelloBOX/JoyHong T079G-A03P as a usable Android tablet
 
 ## Overview
 The above devices are all identical but marketed and sold by different companies. CubeVi is out of business. Realplaybox is also associated with CubeVi but geared towards the Chinese market. JoyHong makes picture frames and other related things is the original source of this device. They only sell by the carton (1000 MOQ) and probably don't want to deal with us unless we're buying
